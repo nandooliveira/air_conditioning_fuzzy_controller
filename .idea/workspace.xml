@@ -14,6 +14,15 @@
       <change afterPath="$PROJECT_DIR$/../Experimento/easysoftware" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Experimento/masters_experiment_analysis" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Experimento/patterns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/fuzzy_controller.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Projeto-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projeto.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simulator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.bak_0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.bak_0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/15/506078308c8a001817eba94d69f44dd7" beforeDir="false" />
@@ -677,8 +686,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controller.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+            <state relative-caret-position="595">
+              <caret line="35" column="88" lean-forward="true" selection-start-line="35" selection-start-column="88" selection-end-line="35" selection-end-column="88" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -689,8 +698,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/simulator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            <state relative-caret-position="340">
+              <caret line="20" column="29" selection-end-line="34" />
               <folding>
                 <element signature="e#25#60#0" expanded="true" />
               </folding>
@@ -782,12 +791,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556084761339</updated>
       <workItem from="1556084766260" duration="3322000" />
-      <workItem from="1556599170587" duration="3590000" />
+      <workItem from="1556599170587" duration="3833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6912000" />
+    <option name="totallyTimeSpent" value="7155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -822,8 +831,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/controller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+        <state relative-caret-position="595">
+          <caret line="35" column="88" lean-forward="true" selection-start-line="35" selection-start-column="88" selection-end-line="35" selection-end-column="88" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -832,8 +841,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/simulator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        <state relative-caret-position="340">
+          <caret line="20" column="29" selection-end-line="34" />
           <folding>
             <element signature="e#25#60#0" expanded="true" />
           </folding>
