@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f98dc39-e616-4638-a692-e868cb626ce3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Disciplinas/intelligent_techniques" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experimento/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experimento/.recommenders/caches/identified-project-coordinates.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experimento/.recommenders/caches/manual-mappings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experimento/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experimento/PyGazeAnalyser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experimento/RemoteSystemsTempFiles/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experimento/easyexperiment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experimento/easysoftware" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experimento/masters_experiment_analysis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Experimento/patterns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.bak_0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.bak_0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/15/506078308c8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/18/10a967a08d8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/1b/701175bb928a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/1d/2063acf83f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/1d/4076c14e928a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/1f/5030ce76938a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/21/206e8543438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/24/b0a19edf428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/26/90b54062438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/27/60e896a4028f00181c91bc1e211cd907" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/27/c07bea0f8c8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2a/d0e8ce728b8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/2d/a03d1e46948a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3/b05150c58c8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/31/8040809e428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/35/d05752148e8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/36/30b9edc88b8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/36/80e07e3b8e8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/39/404d25548e8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/3a/c058efaa418a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/40/a00002598f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/40/d03d5ed2928a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/41/2054a66c408a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/42/d0c1c0d08f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/47/c0378faa8b8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/49/90ac5345928a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/49/a0d4309a058f00181c91bc1e211cd907" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/4a/30aea5b08d8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/4e/70ce0620948a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/4f/d088509f428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/52/00e74b20428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/52/4060b3c53f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/52/50c72c548e8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/54/402f2a548e8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/56/301e65ee938a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/58/40ca2184948a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5a/80e0e651428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5b/30e4e049428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5c/10aa40ee428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5c/a00f7521408a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5f/5039330f428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/61/109ecd008c8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/61/903f42e1428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/67/4097220d8e8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/6a/50e4515d438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/6b/00f49fb4928a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7/1027e277408a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7/20a944cf8f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7/80dbfc8d048f00181c91bc1e211cd907" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7/d093afc8408a001817eba94d69f44dd7" beforeDir="false" afterPath="$PROJECT_DIR$/simulator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/73/80cc849d038f00181c91bc1e211cd907" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/74/c0044d68438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/75/c0cfa234428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/78/a02dbfa28d8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/79/10394e538c8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7a/408d2bfc8b8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/7d/a0daad56938a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/85/40b6cf22438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/85/e09ae96c918a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/86/00c1e9d8438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/88/70b3200a428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/88/f0a6c41c408a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8d/702c96d23f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8d/e0a1f147438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8f/406cb059938a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/8f/a01f9d85948a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/90/10ef1142928a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/90/4016ad40428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/90/4065925c8d8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/91/f0451d588f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/92/9042784a8c8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/93/6086065b938a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/93/a0034385928a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/93/f0edb97b8b8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/97/007ca0f68b8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/97/e03d57a7418a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/99/2010d47e948a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9c/b00294e38d8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9d/a070a8c1928a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/9f/60d6f7ec428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a/7081f2d48b8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a/c0fffe7f8d8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a0/f0c6af0e8e8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a1/b0bc488c3f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a1/c016b57d408a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a4/c0ce1c41948a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a4/e0bed0198e8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/a9/008e984d8f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ac/30afe5818f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/af/f024930e938a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b0/00921352938a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b0/706566d0928a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b0/d000e6a08d8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b2/80c872ee408a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b3/e09f72278f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b4/c02d84ae8d8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b8/70d4e378948a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/b9/c0d031168f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ba/a0a69de3408a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/bb/601aa3333f8a001817eba94d69f44dd7" beforeDir="false" afterPath="$PROJECT_DIR$/../fuzzy_example/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c1/00ac12248f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c3/10f57870428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c4/204132a1428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c6/70045562918a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/c6/c07b52468e8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ca/709422203f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/cb/106aafbb8c8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/cf/a0b9266f918a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/cf/f030a9228f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d/20f6ceef8d8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d4/30c987e0428a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/d8/20117ef7938a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/da/d09a7454438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/da/f01b45f6938a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/db/60096722438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/db/606cdd488e8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/de/509a041f8c8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e0/50916787928a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e2/405b4e3d8c8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e3/0044ea46438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e3/30eecb178e8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e3/b020c38d8c8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/e4/00538af1938a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ea/40d330808f8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/ee/b0279ae4438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f2/c03c9d67438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f3/10613707408a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f3/d00a814f948a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f6/30ed640e8c8a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f7/00745d83408a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/f8/70774967438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/fb/80f49b50438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/fc/e0165e52438a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/fe/70bb1c4a948a001817eba94d69f44dd7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Aula02-TestingTools/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/Aula02-TestingTools/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/RandoopHelpers/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/RandoopHelpers/.indexes/e4/50/7c/1a/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/RandoopHelpers/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SoundSea/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SoundSea/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SoundSea/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SoundSea/org.eclipse.egit.core/GitProjectData.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/SoundSea/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/test/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/test/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/test/org.eclipse.jdt.core/state.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/16.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/RegressionTest0 (1).launch" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/RegressionTest0 (1).launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/RegressionTest0.launch" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/RegressionTest0.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/TesteDate.launch" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.core/.launches/TesteDate.launch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1367078827.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1552113388.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1596253678.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1790931912.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2089348824.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2558196282.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2895204325.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/2997847461.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3793798944.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/3820211490.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/4170066935.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/825618783.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_a.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_a_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_b.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_dc.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_dc_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_dd.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_dd_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_de.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_de_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_df.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_df_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_dg.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_dg_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_dh.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_dh_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/_di.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/38e61ef08a058b02c9546eb1b0390184/segments_c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_k.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_k_2.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_l.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_l_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_m.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_m_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_n.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_n_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_o.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_p.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_q.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_q_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_r.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_r_1.del" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_s.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.jdt/test.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.recommenders/caches/identified-project-coordinates.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.recommenders/caches/identified-project-coordinates.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/../.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02-TestingTools/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02-TestingTools/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02-TestingTools/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02-TestingTools/bin/JabRef-2.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula02-TestingTools/src/JabRef-2.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experimento/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1.fdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experimento/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1.fdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experimento/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1.fnm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experimento/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1.frq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experimento/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1.nrm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experimento/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1.prx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experimento/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1.tii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experimento/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/_1.tis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Experimento/.recommenders/index/http___download_eclipse_org_recommenders_models_oxygen_/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/bin/br/ufal/ic/ClassesExtractor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/bin/br/ufal/ic/ClassesExtractor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/bin/br/ufal/ic/ConstructorFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/bin/br/ufal/ic/ConstructorFinder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/bin/br/ufal/ic/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/bin/br/ufal/ic/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/bin/br/ufal/ic/MethodsExtractor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/bin/br/ufal/ic/MethodsExtractor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/binary/classesfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/binary/classesfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/binary/methodsfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/binary/methodsfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/binary/randoophelpers.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/binary/randoophelpers.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/classesfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/classesfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/methodsfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/methodsfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/src/br/ufal/ic/ClassesExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/src/br/ufal/ic/ClassesExtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/src/br/ufal/ic/ConstructorFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/src/br/ufal/ic/ConstructorFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/src/br/ufal/ic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/src/br/ufal/ic/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandoopHelpers/src/br/ufal/ic/MethodsExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/RandoopHelpers/src/br/ufal/ic/MethodsExtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/evosuite-report/statistics.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/evosuite-tests/tutorial/Stack_ESTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/evosuite-tests/tutorial/Stack_ESTest_scaffolding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/src/main/java/tutorial/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/src/test/java/tutorial/StackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/target/Tutorial_Stack-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/target/dependency/hamcrest-core-1.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/target/dependency/junit-4.12.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/lib/junit-4.12.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/target/surefire-reports/TEST-tutorial.StackTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/target/surefire-reports/tutorial.StackTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tutorial_Stack/target/test-classes/tutorial/StackTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atom_of_confusion/teste" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../atom_of_confusion/teste.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../date_tests/TestDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../date_tests/TestDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/#decision_tree.py#" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/#decision_tree.py#" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/.vscode/last.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/.vscode/last.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/DCL/DCL - 104.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/DCL/DCL - 104.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/DCL/DCL - 17.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/DCL/DCL - 17.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/DCL/DCL - 18.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/DCL/DCL - 18.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/DCL/DCL - 19.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/DCL/DCL - 19.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/DCL/DCL - 2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/DCL/DCL - 2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/DCL/DCL - 21.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/DCL/DCL - 21.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/DCL/DCL - 22.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/DCL/DCL - 22.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/DCL/DCL - 27.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/DCL/DCL - 27.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/DCL/DCL - 30.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/DCL/DCL - 30.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/DCL/DCL - 77.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/DCL/DCL - 77.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/DCL/DCL - 86.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/DCL/DCL - 86.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/DCL/DCL - 93.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/DCL/DCL - 93.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/FE/FE - 1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/FE/FE - 1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/FE/FE - 101.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/FE/FE - 101.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/FE/FE - 103.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/FE/FE - 103.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/FE/FE - 5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/FE/FE - 5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/FE/FE - 55.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/FE/FE - 55.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/FE/FE - 58.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/FE/FE - 58.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/FE/FE - 6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/FE/FE - 6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/FE/FE - 60.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/FE/FE - 60.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/FE/FE - 84.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/FE/FE - 84.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/FE/FE - 9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/FE/FE - 9.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/FE/FE - 97.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/FE/FE - 97.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/FE/FE - 99.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/FE/FE - 99.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/GC/GC - 1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/GC/GC - 1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/GC/GC - 102.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/GC/GC - 102.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/GC/GC - 103.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/GC/GC - 103.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/GC/GC - 13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/GC/GC - 13.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/GC/GC - 15.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/GC/GC - 15.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/GC/GC - 16.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/GC/GC - 16.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/GC/GC - 61.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/GC/GC - 61.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/GC/GC - 62.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/GC/GC - 62.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/GC/GC - 66.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/GC/GC - 66.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/GC/GC - 84.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/GC/GC - 84.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/GC/GC - 9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/GC/GC - 9.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/GC/GC - 94.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/GC/GC - 94.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/II/II - 104.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/II/II - 104.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/II/II - 110.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/II/II - 110.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/II/II - 111.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/II/II - 111.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/II/II - 124.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/II/II - 124.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/II/II - 2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/II/II - 2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/II/II - 21.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/II/II - 21.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/II/II - 22.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/II/II - 22.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/II/II - 24.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/II/II - 24.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/II/II - 25.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/II/II - 25.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/II/II - 28.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/II/II - 28.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/II/II - 7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/II/II - 7.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/II/II - 86.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/II/II - 86.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/LM/LM - 41.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/LM/LM - 41.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/LM/LM - 42.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/LM/LM - 42.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/LM/LM - 43.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/LM/LM - 43.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/LM/LM - 45.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/LM/LM - 45.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/LM/LM - 46.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/LM/LM - 46.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/LM/LM - 47.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/LM/LM - 47.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/LM/LM - 49.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/LM/LM - 49.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/LM/LM - 51.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/LM/LM - 51.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/LM/LM - 64.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/LM/LM - 64.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/LM/LM - 74.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/LM/LM - 74.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/LM/LM - 81.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/LM/LM - 81.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/LM/LM - 95.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/LM/LM - 95.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MC/MC - 10.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MC/MC - 10.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MC/MC - 101.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MC/MC - 101.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MC/MC - 5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MC/MC - 5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MC/MC - 52.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MC/MC - 52.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MC/MC - 53.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MC/MC - 53.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MC/MC - 55.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MC/MC - 55.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MC/MC - 58.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MC/MC - 58.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MC/MC - 6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MC/MC - 6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MC/MC - 60.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MC/MC - 60.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MC/MC - 91.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MC/MC - 91.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MC/MC - 97.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MC/MC - 97.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MC/MC - 99.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MC/MC - 99.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MM/MM - 11.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MM/MM - 11.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MM/MM - 39.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MM/MM - 39.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MM/MM - 40.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MM/MM - 40.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MM/MM - 41.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MM/MM - 41.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MM/MM - 42.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MM/MM - 42.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MM/MM - 43.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MM/MM - 43.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MM/MM - 45.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MM/MM - 45.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MM/MM - 46.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MM/MM - 46.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MM/MM - 47.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MM/MM - 47.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MM/MM - 74.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MM/MM - 74.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MM/MM - 8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MM/MM - 8.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/MM/MM - 81.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/MM/MM - 81.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/PO/PO - 105.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/PO/PO - 105.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/PO/PO - 109.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/PO/PO - 109.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/PO/PO - 46.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/PO/PO - 46.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/PO/PO - 47.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/PO/PO - 47.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/PO/PO - 49.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/PO/PO - 49.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/PO/PO - 51.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/PO/PO - 51.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/PO/PO - 52.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/PO/PO - 52.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/PO/PO - 53.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/PO/PO - 53.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/PO/PO - 64.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/PO/PO - 64.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/PO/PO - 74.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/PO/PO - 74.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/PO/PO - 91.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/PO/PO - 91.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/PO/PO - 95.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/PO/PO - 95.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/RB/RB - 102.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/RB/RB - 102.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/RB/RB - 111.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/RB/RB - 111.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/RB/RB - 112.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/RB/RB - 112.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/RB/RB - 13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/RB/RB - 13.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/RB/RB - 15.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/RB/RB - 15.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/RB/RB - 16.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/RB/RB - 16.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/RB/RB - 17.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/RB/RB - 17.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/RB/RB - 18.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/RB/RB - 18.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/RB/RB - 19.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/RB/RB - 19.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/RB/RB - 30.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/RB/RB - 30.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/RB/RB - 61.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/RB/RB - 61.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/RB/RB - 94.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/RB/RB - 94.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SG/SG - 105.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SG/SG - 105.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SG/SG - 49.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SG/SG - 49.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SG/SG - 5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SG/SG - 5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SG/SG - 51.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SG/SG - 51.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SG/SG - 52.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SG/SG - 52.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SG/SG - 53.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SG/SG - 53.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SG/SG - 55.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SG/SG - 55.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SG/SG - 56.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SG/SG - 56.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SG/SG - 64.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SG/SG - 64.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SG/SG - 91.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SG/SG - 91.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SG/SG - 95.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SG/SG - 95.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SG/SG - 99.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SG/SG - 99.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SS/SS - 106.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SS/SS - 106.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SS/SS - 107.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SS/SS - 107.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SS/SS - 2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SS/SS - 2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SS/SS - 25.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SS/SS - 25.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SS/SS - 28.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SS/SS - 28.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SS/SS - 31.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SS/SS - 31.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SS/SS - 32.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SS/SS - 32.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SS/SS - 69.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SS/SS - 69.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SS/SS - 7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SS/SS - 7.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SS/SS - 86.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SS/SS - 86.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SS/SS - 92.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SS/SS - 92.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/CSV_Corrigidos/SS/SS - 96.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/CSV_Corrigidos/SS/SS - 96.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/data_banknote_authentication.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/data_banknote_authentication.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/decision_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/decision_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decision_tree/ex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/decision_tree/ex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evosuite-1.0.6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/evosuite-1.0.6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../evosuite-standalone-runtime-1.0.6.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/evosuite-standalone-runtime-1.0.6.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perceptron/perceptron.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/perceptron/perceptron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perceptron/perceptron_learning.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/perceptron/perceptron_learning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perceptron/sonar.all-data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/perceptron/sonar.all-data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perceptron/sonar.mines.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/perceptron/sonar.mines.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perceptron/sonar.names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/perceptron/sonar.names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../perceptron/sonar.rocks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/perceptron/sonar.rocks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/.vscode/last.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/.vscode/last.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/RegressionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/RegressionTest0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/RegressionTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/br/ufal/ic/BarraDeProgresso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/br/ufal/ic/ConcurrentCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/br/ufal/ic/GeraPDF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/br/ufal/ic/TestThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/classesfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/target/classes/br/ufal/ic/BarraDeProgresso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/target/classes/br/ufal/ic/ConcurrentCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/target/classes/br/ufal/ic/GeraPDF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/target/classes/br/ufal/ic/TestThread$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../randoop_test/target/classes/br/ufal/ic/TestThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/.idea/decision_tree.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/.idea/decision_tree.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/.vscode/last.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 104.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 104.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 17.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 17.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 18.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 18.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 19.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 19.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 21.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 21.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 22.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 22.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 27.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 27.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 30.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 30.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 77.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 77.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 86.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 86.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 93.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/DCL/DCL - 93.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 101.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 101.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 103.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 103.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 55.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 55.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 58.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 58.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 60.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 60.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 84.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 84.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 9.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 97.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 97.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 99.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/FE/FE - 99.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 102.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 102.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 103.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 103.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 13.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 15.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 15.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 16.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 16.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 61.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 61.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 62.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 62.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 66.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 66.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 84.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 84.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 9.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 9.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 94.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/GC/GC - 94.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/II/II - 104.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/II/II - 104.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/II/II - 110.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/II/II - 110.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/II/II - 111.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/II/II - 111.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/II/II - 124.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/II/II - 124.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/II/II - 2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/II/II - 2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/II/II - 21.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/II/II - 21.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/II/II - 22.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/II/II - 22.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/II/II - 24.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/II/II - 24.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/II/II - 25.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/II/II - 25.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/II/II - 28.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/II/II - 28.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/II/II - 7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/II/II - 7.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/II/II - 86.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/II/II - 86.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 41.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 41.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 42.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 42.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 43.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 43.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 45.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 45.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 46.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 46.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 47.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 47.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 49.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 49.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 51.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 51.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 64.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 64.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 74.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 74.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 81.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 81.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 95.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/LM/LM - 95.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 10.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 10.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 101.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 101.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 52.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 52.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 53.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 53.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 55.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 55.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 58.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 58.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 6.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 6.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 60.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 60.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 91.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 91.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 97.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 97.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 99.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MC/MC - 99.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 11.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 11.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 39.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 39.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 40.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 40.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 41.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 41.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 42.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 42.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 43.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 43.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 45.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 45.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 46.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 46.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 47.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 47.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 74.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 74.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 8.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 8.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 81.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/MM/MM - 81.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 105.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 105.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 109.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 109.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 46.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 46.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 47.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 47.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 49.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 49.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 51.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 51.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 52.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 52.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 53.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 53.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 64.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 64.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 74.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 74.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 91.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 91.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 95.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/PO/PO - 95.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 102.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 102.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 111.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 111.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 112.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 112.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 13.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 13.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 15.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 15.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 16.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 16.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 17.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 17.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 18.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 18.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 19.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 19.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 30.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 30.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 61.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 61.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 94.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/RB/RB - 94.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 105.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 105.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 49.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 49.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 5.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 5.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 51.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 51.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 52.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 52.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 53.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 53.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 55.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 55.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 56.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 56.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 64.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 64.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 91.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 91.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 95.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 95.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 99.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SG/SG - 99.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 106.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 106.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 107.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 107.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 25.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 25.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 28.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 28.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 31.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 31.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 32.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 32.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 69.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 69.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 7.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 86.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 86.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 92.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 92.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 96.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/CSV_Corrigidos/SS/SS - 96.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/decision_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/decision_tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smart_techniques/decision_tree/decision_tree_activity.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/smart_techniques/decision_tree/decision_tree_activity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest0.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest0.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/RegressionTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/RegressionTest5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/br/ufal/ic/AnsiColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/br/ufal/ic/AnsiColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/br/ufal/ic/AnsiColors$LabColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/br/ufal/ic/AnsiColors$LabColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/br/ufal/ic/AnsiColors.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/br/ufal/ic/AnsiColors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/br/ufal/ic/AnsiColors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/br/ufal/ic/AnsiColors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/br/ufal/ic/TestCollections.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/br/ufal/ic/TestCollections.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/br/ufal/ic/TestCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/br/ufal/ic/TestCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/br/ufal/ic/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/br/ufal/ic/Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/br/ufal/ic/Teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/br/ufal/ic/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/br/ufal/ic/TesteDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/br/ufal/ic/TesteDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/br/ufal/ic/TesteDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/br/ufal/ic/TesteDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/br/ufal/ic/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/br/ufal/ic/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/br/ufal/ic/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/br/ufal/ic/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-report/statistics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-report/statistics.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/AnsiColors_ESTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/AnsiColors_ESTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/AnsiColors_ESTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/AnsiColors_ESTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/AnsiColors_ESTest_scaffolding.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/AnsiColors_ESTest_scaffolding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/AnsiColors_ESTest_scaffolding.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/AnsiColors_ESTest_scaffolding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/TestCollections_ESTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/TestCollections_ESTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/TestCollections_ESTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/TestCollections_ESTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/TestCollections_ESTest_scaffolding.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/TestCollections_ESTest_scaffolding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/TestCollections_ESTest_scaffolding.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/TestCollections_ESTest_scaffolding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/Teste_ESTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/Teste_ESTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/Teste_ESTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/Teste_ESTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/Teste_ESTest_scaffolding.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/Teste_ESTest_scaffolding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/Teste_ESTest_scaffolding.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/Teste_ESTest_scaffolding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/User_ESTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/User_ESTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/User_ESTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/User_ESTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/User_ESTest_scaffolding.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/User_ESTest_scaffolding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/evosuite-tests/br/ufal/ic/User_ESTest_scaffolding.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/evosuite-tests/br/ufal/ic/User_ESTest_scaffolding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/myclasses" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/myclasses" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/META-INF/maven/br.ufal.ic/test/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/target/classes/META-INF/maven/br.ufal.ic/test/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/META-INF/maven/br.ufal.ic/test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/target/classes/META-INF/maven/br.ufal.ic/test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/br/ufal/ic/AnsiColor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/target/classes/br/ufal/ic/AnsiColor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/br/ufal/ic/AnsiColors.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/target/classes/br/ufal/ic/AnsiColors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/br/ufal/ic/TestCollections.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/target/classes/br/ufal/ic/TestCollections.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/br/ufal/ic/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/target/classes/br/ufal/ic/Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/br/ufal/ic/TesteDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/target/classes/br/ufal/ic/TesteDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/classes/br/ufal/ic/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/target/classes/br/ufal/ic/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/target/test-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/test/target/test-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../teste.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testes_de_software" beforeDir="false" afterPath="$PROJECT_DIR$/../Disciplinas/testes_de_software" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controller.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/simulator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+              <folding>
+                <element signature="e#25#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>person_co</find>
+      <find>temp</find>
+      <find>tem</find>
+      <find>people</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/controller.py" />
+        <option value="$PROJECT_DIR$/simulator.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/fuzzy_controller.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fuzzy_controller" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fuzzy_controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f98dc39-e616-4638-a692-e868cb626ce3" name="Default Changelist" comment="" />
+      <created>1556084761339</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556084761339</updated>
+      <workItem from="1556084766260" duration="3322000" />
+      <workItem from="1556599170587" duration="3590000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6912000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14949928" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simulator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="e#25#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
